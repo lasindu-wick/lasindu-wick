@@ -1,5 +1,5 @@
 I’m Lasindu Wickramaarachchi, an Undergraduate studying Mechatronics Engineering at the General Sir John Kotelawala Defence University in Ratmalana, Sri Lanka.
-I am interested in Industrial Automation, and have a passion for system design and fabrication.
+I am interested in the Automotive Industry and Industrial Automation, and have a passion for system design and fabrication.
 You can reach me via emial: lasindu.wick@gmail.com
 
 <!---
